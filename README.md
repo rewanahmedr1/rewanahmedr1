@@ -3,9 +3,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-# Hi, I'm Rawan Ahmed 👋 روان أحمد
+# Hi, I'm Rawan Ahmed 👋
 
-### Cyber Security | Data Engineering | Data Science | Software Engineering
+### Cyber Security | Networking | Data Engineering | Data Science | Software Engineering
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=rewanahmedr1&style=flat&color=orange&label=PROFILE+VIEWS)
 
@@ -16,11 +16,12 @@
 ### 🎯 About Me
 
 - 🔐 Interested in **Cyber Security** — securing systems, threat analysis, and ethical hacking
+- 🌐 Passionate about **Networking** — protocols, network design, and troubleshooting
 - 🛠️ Passionate about **Data Engineering** — building pipelines and scalable data infrastructure
 - 📊 Exploring **Data Science** — extracting insights from data using ML & statistics
 - 💻 Building solid foundations in **Software Engineering** — clean, maintainable, well-architected code
-- 🌱 Currently sharpening skills across all four areas
-- 💬 Ask me about Cyber Security, Data, or Software Engineering — happy to talk shop!
+- 🌱 Currently sharpening skills across all five areas
+- 💬 Ask me about Cyber Security, Networking, Data, or Software Engineering — happy to talk shop!
 
 <hr></hr>
 
@@ -42,6 +43,14 @@
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Networking**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-004088?style=flat&logo=serverfault&logoColor=white)
+![OSI Model](https://img.shields.io/badge/OSI%20Model-005571?style=flat&logo=protocols.io&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-2E8B57?style=flat&logo=openvpn&logoColor=white)
 
 **Data Engineering**
 
@@ -75,6 +84,7 @@ class Rawan:
         self.name = "Rawan Ahmed"
         self.focus_areas = [
             "Cyber Security",
+            "Networking",
             "Data Engineering",
             "Data Science",
             "Software Engineering"
